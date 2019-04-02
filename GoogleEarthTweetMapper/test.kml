@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.1">
+xmlns="http://www.opengis.net/kml/2.2"
+<Document>
+<GroundOverlay>
+<Icon><href>E:\Graduate_major\Salzburg\basic software development\GoogleEarthTweetMapper\NewYork.png</href></Icon>
+<LatLonBox><north>40.95</north>
+<south>40.56</south>
+<east>-73.64</east>
+<west>-74.10</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay>
+<Placemark>
+<description>helloworld,2019.1.1</description>
+<Point>
+<coordinates>-73.64,40.56</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
